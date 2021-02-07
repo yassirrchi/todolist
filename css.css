@@ -1,0 +1,21 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.ctr,.res{
+display:flex;
+justify-content: center;
+align-items: center;
+}
+h3{
+text-align:center;
+}
+#addbtn{
+    background-color: rgb(85, 255, 85);
+}
+li{ 
+    display:flex;
+    background-color: rgb(157, 255, 0);
+    margin-bottom: 5px;
+    padding:5px;
+    border-radius: 5px;
+}
